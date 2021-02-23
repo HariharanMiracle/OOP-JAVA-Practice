@@ -1,3 +1,6 @@
+//First thread tute
+//https://www.javatpoint.com/multithreading-in-java
+
 package thread;
 
 class Multi extends Thread {

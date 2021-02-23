@@ -1,3 +1,5 @@
+//7th thread tute
+
 package thread;
 
 class TestJoinMethod4 extends Thread{  

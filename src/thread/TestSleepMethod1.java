@@ -1,3 +1,6 @@
+//3rd thread tute
+
+
 package thread;
 
 class TestSleepMethod1 extends Thread{  

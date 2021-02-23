@@ -1,3 +1,5 @@
+//6th thread tute
+
 package thread;
 
 public class TestJoinMethod2 extends Thread{

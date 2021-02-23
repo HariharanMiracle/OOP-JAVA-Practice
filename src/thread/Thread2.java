@@ -1,3 +1,5 @@
+//2nd thread tute
+
 package thread;
 
 class Multi2 implements Runnable{
