@@ -1,0 +1,37 @@
+
+Œ
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(†˜°Óøÿÿÿÿ
+‹
+java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(†˜°Óøÿÿÿÿ
+‹
+java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(œ”Ö¾øÿÿÿÿ
+‡
+java:S1319%"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(×±Æ­
+†
+java:S1319%"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(×±Æ­
+Œ
+java:S1319D"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(›Ý£©üÿÿÿÿ
+‹
+java:S1319D"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(›Ý£©üÿÿÿÿ
+Œ
+java:S1319c"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Ðª†“ÿÿÿÿÿ
+‹
+java:S1319c"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(Ðª†“ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡Ÿå¤üÿÿÿÿ
+X
+java:S22597"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅÞŒ
+E
+java:S6212"/Declare this local variable with "var" instead.(ßŽë·
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(àÒÌè
+8
+java:S1659&""Declare "prev" on a separate line.(ÔÛõ­
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ìƒþï
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Ìƒþï
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(©†ã„øÿÿÿÿ
+8
+java:S1659E""Declare "prev" on a separate line.(ÔÛõ­
+E
+java:S6212F"/Declare this local variable with "var" instead.(ŒÂëó
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(˜à­M
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(˜à­M
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¬¯ˆï

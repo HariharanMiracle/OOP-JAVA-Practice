@@ -1,7 +1,9 @@
 package collection;
 
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.stream.Collectors;
 
 public class LinkedListC {
 
@@ -19,6 +21,13 @@ public class LinkedListC {
 		while(x.hasNext()) {
 			System.out.println(x.next());
 		}
+
+
+		Collections.sort(ll);
+		ll.stream().map(data -> {
+			System.out.println("data: " + data);
+			return data;
+		}).collect(Collectors.toList());
 	}
 	
 }

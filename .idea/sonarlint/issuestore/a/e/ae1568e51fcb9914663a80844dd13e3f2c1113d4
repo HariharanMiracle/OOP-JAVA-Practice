@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í…ïòùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ì…ãüüÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(·¶Úñ
+P
+java:S6213":Rename this variable to not match a restricted identifier.(·¶Úñ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(™áŠóşÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™áŠóşÿÿÿÿ8ø‘áîµ/
